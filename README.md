@@ -4,7 +4,7 @@ This project is a **culminating challenge** for applying knowledge and skills in
 
 ## The Software Development Life Cycle
 
-The phases of software development are:  Problem Definition, Analysis, Design, Writing Code, Testing and Documentation.
+The phases of software development are:  Problem Definition, Analysis & Design, Writing Code, Testing & Documentation.
 
 ### Problem Definition
 
