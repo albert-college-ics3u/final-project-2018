@@ -17,7 +17,7 @@ This phase is composed of **two parts**:
 
 ### Analysis & Design
 
-This will be an ongoing phase of your project.  On a **daily basis** you will make **‘journal entries’** that give evidence of your thought processes *(planning – input/output, layout, algorithms, description of functions created, etc.)* on that day.
+This will be an ongoing phase of your project.  On a **daily basis** you will make **‘journal entries’** that give evidence of your thought processes *(planning – input/output, how data will be stored, layout, algorithms, description of functions created, etc.)* on that day.
 
 ### Writing Code
 
