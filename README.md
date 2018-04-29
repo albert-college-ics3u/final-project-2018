@@ -34,7 +34,7 @@ You will provide **comments within your code** that describes what different blo
 
 ### A Graphical Game
 
-You could create a **simple card game**, a **memory game**, a **strategy game** like **reversi**, or an **animated game** like **brick breaker**.  
+You could create a **simple card game**, a **memory game**, a **strategy game** like **reversi**, or an **animated game** like **brick breaker**.  You could also create something like a demonstration of the **Stroop Effect"".
 
 ### A Text-based Game
 
