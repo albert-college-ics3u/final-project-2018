@@ -30,6 +30,10 @@ You will provide **comments within your code** that describes what different blo
 
 **Testing**, along with documentation, will  be an ongoing phase of your project.  On a **daily basis** you will make **‘journal entries’** that give evidence of testing that you have done on that day.  It may involve testing a block of code or testing a function.  It is better to create functions for each block of code that performs some task, so that once it is working, it cannot be altered by other changes to the program.
 
+## Choosing a Project
+
+Your project should meet all the learning goals (see moodle) of the programming component of our course.  Here are some example projects that you might consider choosing.  If you have another idea, just get it approved by Mr. Guse.  
+
 ## Example projects:
 
 ### A Graphical Game
@@ -46,4 +50,4 @@ You could create a quiz game like a ***Kahoot***, or ***Who Wants to be a Millio
 You could create a Jupyter notebook that uses programming ideas concepts to describe ideas you have learned in your **mathematics** or **science** courses.
 
 
-**Note:**  If you have another idea, just get it **approved by Mr. Guse**.  You may find that your project requires you to **learn something new** that we haven’t covered in our class.  If that is the case, just ask Mr. Guse for assistance in getting this idea implemented.
+**Note:**  You may find that your project requires you to **learn something new** that we haven’t covered in our class.  If that is the case, just ask Mr. Guse for assistance in getting this idea implemented.
