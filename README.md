@@ -38,7 +38,7 @@ Your project should meet all the **learning goals** *(see moodle)* of the progra
 
 ### A Graphical Game
 
-You could create a **simple card game**, a **memory game**, a **strategy game** like **reversi**, or an **animated game** like **brick breaker**.  You could also create something like a demonstration of the **Stroop Effect"".
+You could create a **simple card game**, a **memory game**, a **strategy game** like **reversi**, or an **animated game** like **brick breaker**.  You could also create something like a demonstration of the * **Stroop Effect** *.
 
 ### A Text-based Game
 
