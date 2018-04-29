@@ -38,11 +38,11 @@ Your project should meet all the **learning goals** *(see moodle)* of the progra
 
 ### A Graphical Game
 
-You could create a **simple card game**, a **memory game**, a **strategy game** like **reversi**, or an **animated game** like **brick breaker**.  You could also create something like a demonstration of the **Stroop Effect**.
+You could create a **simple card game**, a **memory game**, a **strategy game** like **reversi**, or an **animated game** like **brick breaker**.  You could also create something like a demonstration of the ***Stroop Effect***.
 
 ### A Text-based Game
 
-You could create a quiz game like a ***Kahoot***, or **Who Wants to be a Millionaire?**. It can be any form of game that you could imagine implementing with text-based interaction, including the graphical game ideas given above.
+You could create a quiz game like a ***Kahoot***, or ***Who Wants to be a Millionaire?***. It can be any form of game that you could imagine implementing with text-based interaction, including the graphical game ideas given above.
 
 
 ### A Jupyter Notebook
