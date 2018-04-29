@@ -8,7 +8,7 @@ The phases of software development are:  Problem Definition, Analysis & Design, 
 
 ### Problem Definition
 
-Choose a project that will meet all of the learning goals for the programming component of our course and matches your programming abilities.
+Choose a project that will meet all of the **learning goals** for the programming component of our course and matches your programming abilities.
 
 This phase is composed of **two parts**:
 
@@ -32,7 +32,7 @@ You will provide **comments within your code** that describes what different blo
 
 ## Choosing a Project
 
-Your project should meet all the learning goals (see moodle) of the programming component of our course.  Here are some example projects that you might consider choosing.  If you have another idea, just get it approved by Mr. Guse.  
+Your project should meet all the **learning goals** *(see moodle)* of the programming component of our course.  Here are some example projects that you might consider choosing.  If you have another idea, just get it approved by Mr. Guse.  
 
 ## Example projects:
 
