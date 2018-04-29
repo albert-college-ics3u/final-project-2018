@@ -26,7 +26,7 @@ You will create one or more files containing either **Python** or **Javascript/p
 
 ### Testing and Documentation
 
-You will provide **comments within your code** that describes what different blocks of code accomplish.  **Each function** you create should be accompanied by a **descriptive comment**.  You will provide a **descriptive paragraph** at the **end of your project** that describes what your project is, how to interact with it, and what bugs are still present / what still needs to be worked on.
+You will provide **comments within your code** that describes what different blocks of code accomplish.  **Each function** you create should be accompanied by a **descriptive comment**.  You will provide a **User-guide** at the **end of your project** that describes what your project is, how to interact with it, and what bugs are still present / what still needs to be worked on.
 
 **Testing**, along with documentation, will  be an ongoing phase of your project.  On a **daily basis** you will make **‘journal entries’** that give evidence of testing that you have done on that day.  It may involve testing a block of code or testing a function.  It is better to create functions for each block of code that performs some task, so that once it is working, it cannot be altered by other changes to the program.
 
