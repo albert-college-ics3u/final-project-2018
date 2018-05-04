@@ -21,7 +21,7 @@ Your project will be assessed using the following categories.  If you copy code 
 
 |Testing & Documentation|**20**|Grade|
 |---|:---:|---|
-|Use of source-Code comments + User Guide| 10 |
+|Use of source-code comments + User Guide| 10 |
 |Regular Journal Entries - Proof of Testing| 10 |
 
 ---
