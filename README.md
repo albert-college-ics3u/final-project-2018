@@ -1,4 +1,4 @@
-# ICS3U Final Project  – 2018
+# ICS3U Final Project  – 2019
 
 This project is a **culminating challenge** for applying knowledge and skills in an integrated and meaningful task. You will follow the software design life cycle to find the best solution to this challenge, demonstrating a mastery of the learning goals of our course.
 
