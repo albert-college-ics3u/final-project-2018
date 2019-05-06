@@ -45,9 +45,12 @@ You could create a **simple card game**, a **memory game**, a **strategy game** 
 You could create a quiz game like a **Kahoot**, or **Who Wants to be a Millionaire?**. It can be any form of game that you could imagine implementing with text-based interaction, including the graphical game ideas given above.
 
 
-### A Jupyter Notebook
+### Computer Art
 
-You could create a Jupyter notebook that uses programming ideas concepts to describe ideas you have learned in your **mathematics** or **science** courses.
+You could research and create various examples of computer generated art.  You can save your creations using the Python Imaging Library that we used to manipulate photos.
 
+### Hardware Project
+
+You could research and create a project that uses either the Circuit Playground Express or the Arduino Uno.
 
 **Note:**  You may find that your project requires you to **learn something new** that we haven’t covered in our class.  If that is the case, just ask Mr. Guse for assistance in getting this idea implemented.
