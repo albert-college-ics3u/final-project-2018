@@ -2,7 +2,7 @@
 
 Your project will be assessed using the following categories.  **IMPORTANT:**  If you copy code from an existing program, not provided by Mr. Guse, you will receive a mark of ZERO.
 
-|Required Components|**30**|Grade|
+|Required Components - Knowledge & Understanding|**30**|Grade|
 |---|:---:|---|
 |input / output ,variables, decision statements – if/elif/else, loops| 20 | |
 |use of **user-defined** functions| 5 | |
@@ -10,7 +10,7 @@ Your project will be assessed using the following categories.  **IMPORTANT:**  I
 
 ---
 
-|Problem Difficulty|**50**|Grade |
+|Problem Difficulty - Application|**50**|Grade |
 |---|:---:|---|
 |Level 1 – Basic operation / no syntax errors |25-29 | |
 |Level 2 - Basic operation / no logic errors | 30-34| |
@@ -19,7 +19,7 @@ Your project will be assessed using the following categories.  **IMPORTANT:**  I
  
 ---
 
-|Presentation|**20**|Grade|
+|Presentation - Thinking and Communication|**20**|Grade|
 |---|:---:|---|
 |Slides (Minimum: 4) - Overview of Project/How to Use It/Code Example/Next Steps| 10 |
 |Code Walk - Description of How your Code Works + Project Demonstration| 10 |
