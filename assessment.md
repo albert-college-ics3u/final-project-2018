@@ -1,6 +1,6 @@
 # Assessment
 
-Your project will be assessed using the following categories.  If you copy code from an existing program, not provided by Mr. Guse, you will receive a mark of ZERO.
+Your project will be assessed using the following categories.  **IMPORTANT:**  If you copy code from an existing program, not provided by Mr. Guse, you will receive a mark of ZERO.
 
 |Programming Expectations|**30**|Grade|
 |---|:---:|---|
