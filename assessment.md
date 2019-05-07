@@ -2,11 +2,11 @@
 
 Your project will be assessed using the following categories.  **IMPORTANT:**  If you copy code from an existing program, not provided by Mr. Guse, you will receive a mark of ZERO.
 
-|Programming Expectations|**30**|Grade|
+|Required Components|**30**|Grade|
 |---|:---:|---|
 |input / output ,variables, decision statements – if/elif/else, loops| 20 | |
 |use of **user-defined** functions| 5 | |
-|use of lists| 5 | |
+|regular journal entries| 5 | |
 
 ---
 
