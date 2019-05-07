@@ -42,7 +42,7 @@ You could create a **simple card game**, a **memory game**, a **strategy game** 
 
 ### A Text-based Game
 
-You could create a quiz game like a **Kahoot**, or **Who Wants to be a Millionaire?**. It can be any form of game that you could imagine implementing with text-based interaction, including the graphical game ideas given above.
+You could create a quiz game like a **Kahoot**, or **Who Wants to be a Millionaire?** or a **Text Adventure** game. It can be any form of game that you could imagine implementing with text-based interaction, including the graphical game ideas given above.
 
 
 ### Computer Art
@@ -51,6 +51,6 @@ You could research and create various examples of computer generated art.  You c
 
 ### Hardware Project
 
-You could research and create a project that uses either the Circuit Playground Express or the Arduino Uno.
+You could research and create a project that uses either the Circuit Playground Express or the Arduino Uno.  If you want to investigate the Raspberry Pi and its Sense Hat, you could do this too.  This involves programming in Python.
 
 **Note:**  You may find that your project requires you to **learn something new** that we haven’t covered in our class.  If that is the case, just ask Mr. Guse for assistance in getting this idea implemented.
