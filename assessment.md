@@ -19,10 +19,10 @@ Your project will be assessed using the following categories.  If you copy code 
  
 ---
 
-|Testing & Documentation|**20**|Grade|
+|Presentation|**20**|Grade|
 |---|:---:|---|
-|Use of source-code comments + User Guide| 10 |
-|Regular Journal Entries - Proof of Testing| 10 |
+|Slides (Minimum: 4) - Overview of Project/How to Use It/Code Example/Next Steps| 10 |
+|Code Walk - Description of How your Code Works| 10 |
 
 ---
 
