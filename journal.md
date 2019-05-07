@@ -12,7 +12,7 @@ The following journal entries describe one or more components of the Software De
 
 **Date** | Description
 ---|---
-May 1 | I chose my project idea and described the initial specifications
+May 7 | I chose my project idea and described the initial specifications
 
 ## User-guide
 ???
