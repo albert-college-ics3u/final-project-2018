@@ -6,7 +6,7 @@ Your project will be assessed using the following categories.  **IMPORTANT:**  I
 |---|:---:|---|
 |input / output ,variables, decision statements – if/elif/else, loops| 20 | |
 |use of **user-defined** functions| 5 | |
-|regular journal entries| 5 | |
+|regular journal entries + user guide| 5 | |
 
 ---
 
