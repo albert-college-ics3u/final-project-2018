@@ -22,7 +22,7 @@ Your project will be assessed using the following categories.  If you copy code 
 |Presentation|**20**|Grade|
 |---|:---:|---|
 |Slides (Minimum: 4) - Overview of Project/How to Use It/Code Example/Next Steps| 10 |
-|Code Walk - Description of How your Code Works| 10 |
+|Code Walk - Description of How your Code Works + Project Demonstration| 10 |
 
 ---
 
